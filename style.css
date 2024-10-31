@@ -152,7 +152,7 @@ section {
 }
 
 .menu .box-container .box {
-  align-item: center;
+  text-align: center;
   border: var(--border);
   padding: 5rem;
   cursor: pointer;
